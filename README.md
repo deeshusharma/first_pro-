@@ -1,3 +1,3 @@
 # first_pro-
 this is my first git repository
-author - desu sharma
+author - deeshu sharma
